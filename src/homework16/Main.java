@@ -1,4 +1,4 @@
-package Tapshyrma16;
+package homework16;
 
 import java.util.Arrays;
 

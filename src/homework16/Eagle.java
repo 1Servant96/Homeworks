@@ -1,4 +1,4 @@
-package Tapshyrma16;
+package homework16;
 
 public class Eagle extends Animal{
     void fly(){
