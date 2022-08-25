@@ -75,7 +75,7 @@ if(!(String.valueOf(id).length()==4)){
             this.lastName = lastName;
         }
 if(!(phoneNumber.startsWith("+996") && (phoneNumber.length() ==13))){
-    while (!phoneNumber.startsWith("+996") && !(phoneNumber.length() ==13)){
+    while (!(phoneNumber.startsWith("+996") && (phoneNumber.length() ==13))){
         Scanner scanner = new Scanner(System.in);
         System.out.println("You need a kyrgyz number phone");
         phoneNumber = scanner.nextLine();
