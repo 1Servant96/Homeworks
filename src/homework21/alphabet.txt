@@ -1,30 +1,30 @@
-A a       1:A a
-B b       2:B b
-C c       3:C c
-D d       4:D d
-E e       5:E e
-F f       6:F f
-G g       7:G g
-H h       8:H h
-I i       9:I i
-J j       10:J j
-K k       11:K k
-L l       12:L l
-M m       13:M m
-N n       14:N n
-O o       15:O o
-P p       16:P p
-Q q       17:Q q
-R r       18:R r
-S s       19:S s
-T t       20:T t
-U u       21:U u
-V v       22:V v
-W w       23:W w
-X x       24:X x
-Y y       25:Y y
-Z z       26:Z z
-
+A a
+B b
+C c
+D d
+E e
+F f
+G g
+H h
+I i
+J j
+K k
+L l
+M m
+N n
+O o
+P p
+Q q
+R r
+S s
+T t
+U u
+V v
+W w
+X x
+Y y
+Z z
+0
 1
 2
 3
@@ -50,4 +50,3 @@ Z z       26:Z z
 23
 24
 25
-26
